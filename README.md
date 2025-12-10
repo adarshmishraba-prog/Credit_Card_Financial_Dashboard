@@ -1,3 +1,5 @@
+Direct Power BI Link - https://app.powerbi.com/view?r=eyJrIjoiYzM2MDRhM2ItNzBmZi00YWU5LWJmMTItNzU2NGQ1MWNjMTEyIiwidCI6IjQ2Y2E5NjJiLWEzMDYtNDlmMS04NGU5LTRmNWU4YjFlOGRhMCJ9
+
 # 📊 Credit Card Financial Dashboard  
 **"Credit Card Transaction and Customer Dashboard using Power BI & SQL"**
 
